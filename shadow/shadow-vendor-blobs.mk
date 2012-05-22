@@ -159,6 +159,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shadow/proprietary/lib/libnativedrm1.so:/system/lib/libnativedrm1.so \
     vendor/motorola/shadow/proprietary/lib/liboemcamera.so:/system/lib/liboemcamera.so \
     vendor/motorola/shadow/proprietary/lib/libomx_arcomxcore_sharedlibrary.so:/system/lib/libomx_arcomxcore_sharedlibrary.so \
+    vendor/motorola/shadow/proprietary/lib/libarcomx_qcelpdec_sharedlibrary.so:/system/lib/libarcomx_qcelpdec_sharedlibrary.so \
+    vendor/motorola/shadow/proprietary/lib/libarcomx_qcelpenc_sharedlibrary.so:/system/lib/libarcomx_qcelpenc_sharedlibrary.so \
     vendor/motorola/shadow/proprietary/lib/libpanorama.so:/system/lib/libpanorama.so \
     vendor/motorola/shadow/proprietary/lib/libpanorama_jni.so:/system/lib/libpanorama_jni.so \
     vendor/motorola/shadow/proprietary/lib/libpkip.so:/system/lib/libpkip.so \
